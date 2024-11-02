@@ -41,7 +41,9 @@ body{
     width: 60px;
     padding: 5px;
     border-radius: 7px;
+    cursor: pointer;
 }
+
 .date{
     padding: 15px;
     padding-left: 1px;
@@ -56,6 +58,10 @@ body{
     padding: 8px;
     padding-left: 1px;
     padding-bottom: 15px;
+}
+.heading:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
 }
 .bottom{
     display: inline-flex;
