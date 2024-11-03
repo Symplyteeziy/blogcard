@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    font-size: 16px;
+    background: hsl(47, 88%, 63%);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Figtree-VariableFont_wght', sans-serif;
+}
+.container{
+    width: 360px;
+    background: hsl(0, 0%, 100%);
+    display: inline-block;
+    border-radius: 20px;
+    border-style: solid;
+    box-shadow: 7px 7px 0px 0px black;
+    border-style: solid;
+    border-color: hsl(0, 0%, 42%);
+    border-left-width: 2px;
+    border-right: none;
+    border-top-width: 2px;
+    border-bottom: none;
+}
+.imge{
+    width: 328px;
+    padding: 15px;
+    padding-bottom: 1px;
+    border-radius: 29px;
+}
+.body-text{
+    padding: 25px;
+    padding-top: 10px;
+}
+.learn{
+    background: hsl(47, 88%, 63%);
+    font-size: 14px;
+    width: 60px;
+    padding: 5px;
+    border-radius: 7px;
+}
+.date{
+    padding: 15px;
+    padding-left: 1px;
+    padding-bottom: 6px;
+    color: hsl(0, 0%, 7%);
+}
+.text{
+    color: hsl(0, 0%, 42%);
+    font-size: 15px;
+}
+.heading{
+    padding: 8px;
+    padding-left: 1px;
+    padding-bottom: 15px;
+}
+.bottom{
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+    padding: 24px;
+    padding-top: 4px;
+}
+.bottom-image{
+    width: 38px;
+    padding-right: 8px;
+}
+.abd{
+    font-family: 'Figtree-ExtraBold', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+h1{
+    font-family: 'Poppin-Italic', sans-serif;
+}
