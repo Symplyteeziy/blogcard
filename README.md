@@ -8,8 +8,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https//github.com/Symplyteeziy/blogcard)
+- Live Site URL: (https://blogcard-murex.vercel.app)
 
 
 ### Built with
@@ -23,7 +23,6 @@ Thanks for checking out this front-end coding challenge.
 ### What I learned
 
 I lernt how to add effect to a border.
-
 
 ## Author
 
